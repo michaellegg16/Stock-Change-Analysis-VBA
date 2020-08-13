@@ -17,7 +17,7 @@
 
 ![Results](https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Output_Results.PNG)
 
-![Bonus_Results](https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Output_Results.PNG)
+![Bonus_Results](https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Bonus_Results.PNG)
 
 ### Instructions
 
