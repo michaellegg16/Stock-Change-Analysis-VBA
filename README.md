@@ -17,6 +17,8 @@
 
 ![Results](https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Output_Results.PNG)
 
+![Bonus_Results](https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Output_Results.PNG)
+
 ### Instructions
 
 1. Open the excel sheet you wish to run the VBA script in. (The one provided for testing is "alphabetical_testing.xlsm")
