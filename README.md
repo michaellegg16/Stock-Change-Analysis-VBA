@@ -15,7 +15,7 @@
   
 #### Screenshots of results
 
-!(/Screenshots/Output_Results.PNG?raw=true "Title")
+![Results] (https://github.com/michaellegg16/VBA-Challenge/blob/master/Screenshots/Output_Results.PNG?raw=true "Title")
 
 ### Instructions
 
