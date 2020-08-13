@@ -1,4 +1,4 @@
-# **VBA-Challenge**
+# **Stock-Change-Analysis-VBA**
 
 ### Task
 
