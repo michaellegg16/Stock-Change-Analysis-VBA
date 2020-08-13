@@ -15,6 +15,7 @@
   
 #### Screenshots of results
 
+!(/Screenshots/Output_Results.PNG?raw=true "Title")
 
 ### Instructions
 
@@ -28,4 +29,4 @@
 
 ### Conclusion
 
-As each of the seven worksheets has unique results, going through each result would be redundant. After completing this analysis, even though the numbers are fabricated and for experimental purposes only, it is clear how volatile individual stocks can be. It appears as if some have unlimited potential for gains in the short term of a year, with some stocks increasing over 1000% in a year. What I find most interesting is that the potential for losses seems much more limited with the greatest % decrease over a year being less than -100%. This value is a fraction of the greatest % increase, but this model does not have the ability to provide insight as to why without speculation. Further analysis is needed.
+As each of the seven worksheets has unique results, going through each result would be redundant. After completing this analysis, even though the numbers are fabricated and for experimental purposes only, it is clear how volatile individual stocks can be in the short term. It appears as if some have unlimited potential for gains in the term of a year, with some stocks increasing over 1000% in a year. What I find most interesting is that the potential for losses seems much more limited with the greatest % decrease over a year being less than -100%. This value is a fraction of the greatest % increase, but this model does not have the ability to provide insight as to why without speculation. Further analysis is needed.
